@@ -1,0 +1,33 @@
+{
+  "name": "swagger-services",
+  "description": "Swagger services helpers for microservices intercommunication",
+  "tags": [ "mock", "http", "testing", "regression", "swagger", "api" ],
+  "version": "0.1.1",
+  "author": "Alexander Kravets <alex@slatestudio.com>",
+  "contributors": [
+    {
+      "name": "Denis Popov",
+      "email": "denis@slatestudio.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/slate-studio/swagger-services.git"
+  },
+  "bugs": {
+    "url": "http://github.com/slate-studio/swagger-services/issues"
+  },
+  "engines": [
+    "node >= 4.0"
+  ],
+  "main": "./index",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "app-root-path": "^2.0.1",
+    "swagger-client": "^2.2.21",
+    "nock": "^9.0.4",
+    "faker": "^3.1.0",
+    "request": "^2.79.0"
+  },
+  "license": "ISC"
+}
