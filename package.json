@@ -2,7 +2,7 @@
   "name": "swagger-services",
   "description": "Swagger services helpers for microservices intercommunication",
   "tags": [ "mock", "http", "testing", "regression", "swagger", "api" ],
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Alexander Kravets <alex@slatestudio.com>",
   "contributors": [
     {
